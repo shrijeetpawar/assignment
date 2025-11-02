@@ -6,7 +6,7 @@ A **configuration-driven React + TypeScript** application for searching and disp
 
 ## 🚀 Overview
 
-This project demonstrates a **scalable, configuration-based UI architecture** where all form fields and display columns are driven entirely from configuration files — not hardcoded components.
+This project demonstrates a **scalable, configuration-based UI architecture** where all form fields and display columns are driven entirely from configuration files not hardcoded components.
 
 Adding a new customer field (e.g., `middleName`, `secureId`, `city`, or any future attribute) requires **only editing the configuration or data model**, without touching React component logic.
 
