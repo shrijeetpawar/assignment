@@ -1,6 +1,6 @@
-## 🧩 Care247 - Customer Search Application
+## 🧩 Customer Search Application
 
-A **configuration-driven React + TypeScript** application for searching and displaying customer information, built as per the Care247 Web Technical Assignment requirements.
+A **configuration-driven React + TypeScript** application for searching and displaying customer information, built as per the Web Technical Assignment requirements.
 
 ---
 
@@ -43,8 +43,8 @@ src/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/shrijeetpawar/care247-assignment.git
-cd care247-assignemnt
+git clone https://github.com/shrijeetpawar/assignment.git
+cd assignemnt
 
 2️⃣ Install Dependencies
 
