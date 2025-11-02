@@ -43,7 +43,7 @@ src/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<shrijeet-pawar>/care247-assignment.git
+git clone https://github.com/shrijeetpawar/care247-assignment.git
 cd care247-assignemnt
 
 2️⃣ Install Dependencies
